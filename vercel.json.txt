@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://3000-i42u9je7q2uyichjl4p0d-d0b9e1e2.sandbox.novita.ai/$1",
+      "permanent": true
+    }
+  ]
+}
